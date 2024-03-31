@@ -24,7 +24,7 @@ Pour installer et exécuter Yiidein sur votre système local pour le développem
 
 1. **Clonez le dépôt :**
 ```sh
-git clone https://github.com/votreUsername/Yiidein.git
+git clone https://github.com/souleymanetimbidiallo/yiidein.git
 ```
 
 2. **Backend :**
